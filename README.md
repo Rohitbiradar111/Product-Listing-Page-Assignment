@@ -12,7 +12,7 @@ This is a Product Listing Page Assignment.
 
 
 <p align="center">
-<a href="https://product-listing-page-assignment-gilt.vercel.app/">📱 Visit this Project</a>
+<a href="https://product-listing-page-assignment-gilt.vercel.app/" target="_blank">📱 Visit this Project</a>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
