@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-weight: bold;">Product Listing Page Project</h1>
+<h1 align="center" style="font-weight: bold;">Product Listing Page Assignment</h1>
 
 <p align="center">
 <a href="#technologies">Technologies</a>
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-This is a Product Listing Page Project.
+This is a Product Listing Page Assignment.
 </p>
 
 
